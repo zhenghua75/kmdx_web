@@ -1,0 +1,103 @@
+*{margin:0px; padding:0px;}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+a:link{ color:#666666; text-decoration:none;}
+a:visited{ color:#666666; text-decoration:none;}
+a:hover{ color:#09438F; text-decoration:none;}
+/*表格内容样式*/
+.td_txt{ color:#666666; line-height:180%;}
+
+.txt14{ font-size:14px;}
+.chu{font-weight:bold;}
+
+/*头部文件*/
+#top{width:100%; height:104px;}
+#top1
+{
+	width: 900px;
+	margin: auto;
+	height: 77px;
+}
+/*LOGO样式*/
+#top_logo{width:175px; height:74px; background-image:url(images/logo1.jpg); float:left;}
+#top_right{ width:139px; height:27px; float:right;}
+.tb1{width:65px; background-image:url(images/20060905030547198.gif); background-repeat:no-repeat; text-indent:15px; margin-top:55px;}
+.left1{ float:left;}
+.right1{float:right;}
+
+/*导航*/
+#dh_b{ background-image:url(images/b.gif);width:100%; height:26px;}
+#dh_b1{ width:900px; margin:auto;}
+#dh_b ul {
+	height: 26px;
+	margin-left:160px;
+	float: right;
+}
+
+#dh_b ul li {
+	height: 26px;
+	width: 102px;
+	float: left;
+	list-style-type: none;
+	background-image: url(images/dh_b.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	text-indent: 5px;
+	vertical-align: middle;
+	line-height: 26px;
+	background-position: right;
+}
+#dh_b ul li a:link{
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+}
+#dh_b ul li a:visited{ color:#fff; font-size:14px; font-weight:bold;}
+#dh_b ul li a:hover{ color:#ededed; font-size:14px; font-weight:bold;}
+
+/*首页banner*/
+#index_ban_b {background-image:url(images/ban_b.jpg); height:278px; width:100%;}
+#index_ban{ background-image:url(images/ban.jpg); width:890px; height:278px; margin:auto;}
+/*底部版权*/
+
+#foot{ width:100%; background-image:url(images/b1.jpg); height:94px; }
+#foot_{ width:900px; margin:auto; height:94px;}
+#foot_left{width:190px; height:83px; padding-top:11px; float:left; }
+#foot_left_l{ width:190px; height:80px; background-image:url(images/tu.jpg); background-repeat:no-repeat; }
+#foot_left_l p{ 
+padding-left:70px;
+padding-top:20px;
+}
+#foot_right{ width:700px; height:73px; float:right; 
+padding-top:21px !important}
+#top_right {
+	height: 77px;
+}
+.cp {
+	text-indent: 15px;
+	height: 25px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+.my_2{ color:#FF0000;}
+.cp_bian {
+	border: 1px solid #CCCCCC;
+}
+.ablue14:link{ color:#08459A; font-size:14px;}
+.ablue14:visited{ color:#08459A; font-size:14px;}
+.ablue14:hover{ color:#08459A; font-size:14px;}
+
+.txt_blue14{ font-size:14px; color:#08459A;}

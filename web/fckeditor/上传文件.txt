@@ -1,0 +1,5 @@
+ 
+ <appSettings>
+<add key="FCKeditor:UserFilesPath" value="../UserFiles/"/>
+
+</appSettings> 
